@@ -322,24 +322,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AirportItlwm.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AirportItlwm</string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -829,7 +811,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>17760515</integer>
+			<integer>17767171</integer>
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
@@ -959,21 +941,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02735300J9HRPCJA</string>
+			<string></string>
 			<key>ProcessorType</key>
-			<integer>1537</integer>
+			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>LP2hKKet</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02TJWY0HV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>6ECB5700-AF69-4363-9642-CD1A704EEF11</string>
+			<string></string>
 		</dict>
 	</dict>
 	<key>UEFI</key>
