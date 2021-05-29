@@ -43,9 +43,7 @@ Please disable this configurations in BIOS. You can enable again after installat
 ## Supported macOS
 | macOS | Version | OC |
 --------| --------| ---- | 
-Big Sur | 11.0.1 (20B50) | YES 
-Big Sur | 11.0.1 (20B29) | YES 
-Big Sur | Beta 10 | YES  
+Big Sur | 11.4 | YES 
 Catalina | 10.15.7 | YES | 
 Mojave | 10.14.6 (18G95) | YES 
 High Sierra | 10.13.6 | YES
